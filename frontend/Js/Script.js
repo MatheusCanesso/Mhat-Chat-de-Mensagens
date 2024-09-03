@@ -196,7 +196,7 @@ const handleLogin = (event) => {
   login.style.display = "none";
   chat.style.display = "flex";
 
-  websocket = new WebSocket("wss://mhat-chat-de-mensagens-rei9.onrender.com");
+  websocket = new WebSocket("wss://chat-backend-986l.onrender.com");
   websocket.onmessage = processMessage;
 };
 
