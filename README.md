@@ -1,5 +1,4 @@
 <div align="center">
- <img src="https://github.com/MatheusCanesso/duots/blob/main/src/img/logo.png"/>
 <h1 font-size: 2rem; font-weight: 600; text-transform: uppercase;>Mhat - Chat de Mensagens</h1>
 
 <p>Mhat é um chat de mensagens para conectar pessoas, nele é possivel enviar uma mensagem, um GIF, e todos os outros usuários irão visualizar sua mensagem, tudo isso utilizando o NodeJs e Html!</p>
